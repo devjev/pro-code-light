@@ -2,6 +2,7 @@
   "name": "pro-code-light",
   "displayName": "Pro Code (Light)",
   "publisher": "devjev",
+  "repository": "github:devjev/pro-code-light",
   "description": "A light color theme inspired by professional software UIs.",
   "version": "0.0.1",
   "engines": {
