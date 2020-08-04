@@ -2,7 +2,7 @@
   "name": "Pro Code (Light)",
   "type": "light",
   "colors": {
-    "editor.background": "#acacac",
+    "editor.background": "#b9b9b9",
     "editor.foreground": "#000000",
     "editor.foldBackground": "#a0a0a0",
     "editor.lineHighlightBackground": "#b7b7b7",
@@ -23,11 +23,11 @@
     "statusBar.foreground": "#323232",
     "tab.inactiveBackground": "#777777",
     "tab.inactiveForeground": "#000000",
-    "tab.border": "#969696",
+    "tab.border": "#656565",
     "tab.hoverBackground": "#1362ff",
     "tab.hoverForeground": "#ffffff",
     "tab.activeBorderTop": "#1362ff",
-    "titleBar.activeBackground": "#969696",
+    "titleBar.activeBackground": "#b9b9b9",
     "titleBar.activeForeground": "#000000",
     "titleBar.inactiveBackground": "#969696",
     "titleBar.inactiveForeground": "#777777",
@@ -50,7 +50,11 @@
     "terminal.ansiGreen": "#006140",
     "terminal.ansiBrightGreen": "#007d5a",
     "scrollbar.shadow": "#777777",
-    "editorGroup.border": "#a0a0a0"
+    "editorGroup.border": "#a0a0a0",
+    "debugConsole.infoForeground": "#006140",
+    "debugConsole.errorForeground": "#a63442",
+    "debugConsole.sourceForeground": "#000000",
+    "debugConsole.warningForeground": "#a63442"
   },
   "tokenColors": [
     {
