@@ -6,7 +6,7 @@
     "editor.foreground": "#000000",
     "editor.foldBackground": "#cccfce",
     "editor.lineHighlightBackground": "#b7b7b7",
-    "editor.selectionBackground": "#a5a173",
+    "editor.selectionBackground": "#9a9a9a",
     "editorGroupHeader.tabsBackground": "#969696",
     "editorGutter.addedBackground": "#356d53",
     "editorGutter.deletedBackground": "#da1a32",
@@ -17,7 +17,7 @@
     "activityBar.background": "#969696",
     "activityBar.foreground": "#000000",
     "activityBar.inactiveForeground": "#575757",
-    "sideBarTitle.foreground": "#c3c3c3",
+    "sideBarTitle.foreground": "#000000",
     "sideBar.background": "#969696",
     "statusBar.background": "#80847f",
     "statusBar.foreground": "#323232",
@@ -30,7 +30,13 @@
     "titleBar.activeBackground": "#969696",
     "titleBar.activeForeground": "#000000",
     "titleBar.inactiveBackground": "#969696",
-    "titleBar.inactiveForeground": "#777777"
+    "titleBar.inactiveForeground": "#777777",
+    "sideBar.foreground": "#323232",
+    "gitDecoration.ignoredResourceForeground": "#6a6a6a",
+    "activityBar.activeBackground": "#acacac",
+    "list.hoverBackground": "#1362ff",
+    "list.hoverForeground": "#ffffff",
+    "list.inactiveSelectionBackground": "#a0a0a0"
   },
   "tokenColors": [
     {
