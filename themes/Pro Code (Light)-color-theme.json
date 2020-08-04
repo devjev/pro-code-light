@@ -4,7 +4,7 @@
   "colors": {
     "editor.background": "#acacac",
     "editor.foreground": "#000000",
-    "editor.foldBackground": "#cccfce",
+    "editor.foldBackground": "#a0a0a0",
     "editor.lineHighlightBackground": "#b7b7b7",
     "editor.selectionBackground": "#9a9a9a",
     "editorGroupHeader.tabsBackground": "#969696",
@@ -36,7 +36,21 @@
     "activityBar.activeBackground": "#acacac",
     "list.hoverBackground": "#1362ff",
     "list.hoverForeground": "#ffffff",
-    "list.inactiveSelectionBackground": "#a0a0a0"
+    "list.inactiveSelectionBackground": "#a0a0a0",
+    "terminal.ansiCyan": "#005479",
+    "terminal.ansiBrightCyan": "#00799f",
+    "terminal.ansiBlue": "#002dba",
+    "terminal.ansiBrightBlue": "#1362ff",
+    "terminal.ansiMagenta": "#940049",
+    "terminal.ansiBrightMagenta": "#b60064",
+    "terminal.ansiRed": "#990006",
+    "terminal.ansiBrightRed": "#a63442",
+    "terminal.ansiYellow": "#5e4000",
+    "terminal.ansiBrightYellow": "#805c00",
+    "terminal.ansiGreen": "#006140",
+    "terminal.ansiBrightGreen": "#007d5a",
+    "scrollbar.shadow": "#777777",
+    "editorGroup.border": "#a0a0a0"
   },
   "tokenColors": [
     {
