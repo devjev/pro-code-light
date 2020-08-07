@@ -21,6 +21,10 @@
     "sideBar.background": "#969696",
     "statusBar.background": "#80847f",
     "statusBar.foreground": "#323232",
+    "statusBar.noFolderBackground": "#80847f",
+    "statusBar.noFolderForeground": "#323232",
+    "statusBar.debuggingBackground": "#fcb53b",
+    "statusBar.debuggingForeground": "#101010",
     "tab.inactiveBackground": "#777777",
     "tab.inactiveForeground": "#000000",
     "tab.border": "#656565",
@@ -538,7 +542,7 @@
       "name": "Markdown - Link",
       "scope": ["string.other.link.title.markdown"],
       "settings": {
-        "foreground": "#a3cceb"
+        "foreground": "#0000ff"
       }
     },
     {
