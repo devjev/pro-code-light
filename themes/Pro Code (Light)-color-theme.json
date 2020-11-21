@@ -2,15 +2,15 @@
   "name": "Pro Code (Light)",
   "type": "light",
   "colors": {
-    "editor.background": "#b9b9b9",
+    "editor.background": "#b0b0b0",
     "editor.foreground": "#000000",
     "editor.foldBackground": "#a0a0a0",
     "editor.lineHighlightBackground": "#b7b7b7",
     "editor.selectionBackground": "#9a9a9a",
     "editorGroupHeader.tabsBackground": "#969696",
-    "editorGutter.addedBackground": "#356d53",
+    "editorGutter.addedBackground": "#85a696",
     "editorGutter.deletedBackground": "#da1a32",
-    "editorGutter.modifiedBackground": "#3a3a3a",
+    "editorGutter.modifiedBackground": "#d9bd8d",
     "editorLineNumber.foreground": "#5d5d5d",
     "editorCursor.foreground": "#1362ff",
     "activityBarBadge.background": "#212121",
@@ -94,14 +94,14 @@
       "name": "Storage",
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#3535b8"
+        "foreground": "#0c0c78"
       }
     },
     {
       "name": "Keywords",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#3535b8"
+        "foreground": "#0c0c78"
       }
     },
     {
@@ -109,13 +109,6 @@
       "scope": ["keyword.operator"],
       "settings": {
         "foreground": "#101010"
-      }
-    },
-    {
-      "name": "Use stuff",
-      "scope": ["keyword.other"],
-      "settings": {
-        "fontStyle": "italic"
       }
     },
     {
@@ -156,7 +149,6 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#000000"
       }
     },
@@ -164,7 +156,6 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#000000"
       }
     },
@@ -192,8 +183,7 @@
         "constant.escape"
       ],
       "settings": {
-        "fontStyle": "underline",
-        "foreground": "#000000"
+        "foreground": "#0c4c1c"
       }
     },
     {
@@ -208,8 +198,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "fontStyle": "underline",
-        "foreground": "#000000"
+        "foreground": "#0c4c1c"
       }
     },
     {
@@ -225,7 +214,6 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#000000"
       }
     },
@@ -265,7 +253,6 @@
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "underline",
         "foreground": "#000000"
       }
     },
@@ -306,7 +293,6 @@
       "name": "CSS ID's",
       "scope": ["source.sass keyword.control"],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#000000"
       }
     },
@@ -618,6 +604,32 @@
       "scope": ["markup.heading"],
       "settings": {
         "fontStyle": ""
+      }
+    },
+
+    // Rust Specific Rules
+    {
+      "name": "Reference Sigil",
+      "scope": ["keyword.operator.sigil.rust"],
+      "settings": {
+        "foreground": "#0c0c78",
+        "fontStyle": "bold"
+      }
+    },
+
+    {
+      "name": "Rust Specific Keywords",
+      "scope": ["keyword.other.rust"],
+      "settings": {
+        "foreground": "#0c0c78",
+      }
+    },
+
+    {
+      "name": "Rust Meta Attributes",
+      "scope": ["meta.attribute.rust"],
+      "settings": {
+        "foreground": "#5d5d78",
       }
     }
   ]
