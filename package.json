@@ -4,7 +4,7 @@
   "publisher": "devjev",
   "repository": "github:devjev/pro-code-light",
   "description": "A light color theme inspired by professional software UIs.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.47.0"
   },

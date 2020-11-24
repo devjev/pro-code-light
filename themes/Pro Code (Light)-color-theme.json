@@ -2,7 +2,7 @@
   "name": "Pro Code (Light)",
   "type": "light",
   "colors": {
-    "editor.background": "#b0b0b0",
+    "editor.background": "#bababa",
     "editor.foreground": "#000000",
     "editor.foldBackground": "#a0a0a0",
     "editor.lineHighlightBackground": "#b7b7b7",
