@@ -5,7 +5,7 @@
     "editor.background": "#c4c4c4",
     "editor.foreground": "#000000",
     "editor.foldBackground": "#a0a0a0",
-    "editor.lineHighlightBackground": "#b7b7b7",
+    "editor.lineHighlightBackground": "#e3e3e3",
     "editor.selectionBackground": "#9a9a9a",
 
     "editorGroupHeader.tabsBackground": "#969696",
